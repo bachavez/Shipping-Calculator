@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora Postal</string>
+    <string name="title">Peso del Paquete</string>
+    <string name="units">(en onzas)</string>
+    <string name="label_BaseCost">Costo Base:</string>
+    <string name="label_AddedCost">Costo Addicional:</string>
+    <string name="label_TotalCost">Costo Postal Total:</string>
+    <string name="description_EnterWeight">Escribe Peso Aca</string>
+    <string name="initialAmounts">$0.00</string>
+</resources>
